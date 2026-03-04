@@ -1,0 +1,201 @@
+name,avg_delivery_time_minutes
+"Madras Diner (Bakery)",38.5000
+"Golden Lounge (Cafe)",42.6000
+"Tandoori House (Thai)",43.0000
+"Tandoori Hut (Italian)",45.3333
+"Spicy Cafe (Italian)",45.7500
+"Classic Bistro (Mediterranean)",46.0000
+"Classic Cafe (Desserts)",46.2143
+"Delicious Hut (Bakery)",46.7500
+"Royal House (Juice Bar)",46.8000
+"Classic House (Mediterranean)",47.0000
+"Royal Diner (Korean)",47.8571
+"Golden Bistro (South Indian)",48.1250
+"Madras Lounge (Japanese)",48.4000
+"Spicy House (Andhra)",48.6364
+"Royal Cafe (Juice Bar)",48.7143
+"Delicious Eatery (Seafood)",48.7500
+"Chennai Kitchen (French)",48.7500
+"Savor Hut (Fast Food)",49.0000
+"Spicy Grill (Continental)",49.1250
+"Golden Point (Andhra)",50.6667
+"Royal Kitchen (Street Food)",50.6667
+"Delicious Grill (Desserts)",50.7500
+"Flavors of Lounge (Desserts)",51.0000
+"Spicy Kitchen (French)",51.0000
+"Classic Eatery (North Indian)",51.3333
+"Royal Corner (Fast Food)",51.6000
+"Flavors of Eatery (Continental)",51.8333
+"Delicious Diner (Seafood)",51.8750
+"Grand Grill (Chinese)",52.2500
+"Royal Hut (BBQ)",52.2500
+"Tandoori Corner (Korean)",52.2727
+"Grand Point (Continental)",52.7000
+"Spicy Cafe (French)",52.7143
+"Delicious Bistro (Thai)",52.8889
+"Flavors of Corner (Juice Bar)",53.3333
+"Royal Bistro (South Indian)",53.3333
+"Savor Grill (Bakery)",53.6250
+"Delicious Grill (BBQ)",53.7000
+"Flavors of House (Korean)",53.7778
+"Madras Lounge (Bakery)",53.8000
+"Royal Lounge (BBQ)",53.8333
+"Savor Grill (Cafe)",53.8571
+"Golden Lounge (Seafood)",54.0000
+"Golden Bistro (Mexican)",54.1429
+"Authentic Corner (Thai)",54.4286
+"Tandoori Grill (BBQ)",54.5000
+"Golden Spot (Bakery)",54.5000
+"Flavors of Point (Biryani)",54.6667
+"Grand Lounge (Kerala)",55.0000
+"Tandoori Corner (South Indian)",55.3333
+"Royal House (Desserts)",55.4286
+"Madras Cafe (Kerala)",55.7273
+"Savor Lounge (Biryani)",55.7500
+"Savor Diner (Continental)",56.0000
+"Grand Corner (Kerala)",56.3333
+"Savor Diner (Japanese)",56.3333
+"Chennai House (Continental)",56.3333
+"Madras Point (Bakery)",56.4000
+"Savor Cafe (French)",56.4167
+"Savor Point (Italian)",57.0000
+"Classic House (Bakery)",57.0000
+"Chennai Spot (North Indian)",57.0000
+"Chennai Eatery (Italian)",57.1000
+"Royal Bistro (Mexican)",57.2000
+"Spicy Lounge (Desserts)",57.3000
+"Classic Diner (Thai)",57.3000
+"Tandoori Hut (Biryani)",57.3333
+"Flavors of Grill (South Indian)",57.5000
+"Savor Bistro (Japanese)",57.7500
+"Delicious House (BBQ)",57.7778
+"Savor Eatery (French)",57.7778
+"Classic Spot (Cafe)",57.7778
+"Madras Corner (Korean)",57.8000
+"Tandoori Corner (North Indian)",57.8750
+"Tandoori Lounge (Desserts)",57.9000
+"Chennai Eatery (BBQ)",58.0000
+"Authentic Grill (Desserts)",58.1000
+"Tandoori Spot (Andhra)",58.1429
+"Tandoori Lounge (Andhra)",58.1667
+"Delicious Grill (Mediterranean)",58.2222
+"Grand House (North Indian)",58.3333
+"Royal Point (South Indian)",58.6000
+"Golden Diner (Juice Bar)",59.0000
+"Golden House (Chinese)",59.1429
+"Classic Diner (Chettinad)",59.1429
+"Spicy Hut (Japanese)",59.2727
+"Classic Corner (Japanese)",59.3000
+"Golden Spot (Andhra)",59.4545
+"Chennai Diner (Mediterranean)",59.6000
+"Golden Diner (Fast Food)",59.6923
+"Savor Kitchen (Thai)",59.7143
+"Authentic Kitchen (BBQ)",59.7500
+"Golden Spot (Italian)",59.7500
+"Savor Corner (Andhra)",60.0000
+"Flavors of Point (Japanese)",60.1429
+"Chennai Spot (Mexican)",60.1667
+"Chennai Grill (Street Food)",60.2000
+"Madras House (Desserts)",60.2500
+"Chennai Bistro (Desserts)",60.3077
+"Spicy Hut (Korean)",60.3333
+"Authentic Spot (Thai)",60.3333
+"Royal Spot (Chettinad)",60.5000
+"Golden Kitchen (Desserts)",60.6000
+"Authentic Point (Chettinad)",60.6250
+"Delicious Bistro (Juice Bar)",60.6364
+"Flavors of Diner (Andhra)",60.6667
+"Golden Grill (Mediterranean)",60.7000
+"Grand Eatery (Chinese)",60.7778
+"Authentic Grill (Thai)",60.8182
+"Delicious Spot (North Indian)",60.8571
+"Tandoori Eatery (Mexican)",60.8750
+"Flavors of Spot (Chinese)",61.0000
+"Chennai Grill (Biryani)",61.0000
+"Classic Eatery (Italian)",61.0000
+"Authentic Corner (Biryani)",61.0000
+"Flavors of Lounge (Bakery)",61.2000
+"Spicy Diner (Fast Food)",61.2222
+"Madras Bistro (Fast Food)",61.5000
+"Authentic Cafe (Thai)",61.5000
+"Chennai House (Kerala)",61.6000
+"Golden Corner (South Indian)",61.6154
+"Chennai Grill (Kerala)",61.6667
+"Flavors of Cafe (Thai)",61.7143
+"Flavors of Kitchen (Bakery)",61.7500
+"Delicious Diner (French)",61.8182
+"Savor Diner (Juice Bar)",62.0000
+"Madras House (French)",62.0000
+"Classic Spot (Desserts)",62.0000
+"Tandoori Diner (Biryani)",62.0000
+"Chennai Hut (Continental)",62.0769
+"Authentic Point (Japanese)",62.1667
+"Classic Kitchen (Street Food)",62.2500
+"Authentic Eatery (Fast Food)",62.2500
+"Grand Bistro (Seafood)",62.3333
+"Chennai Cafe (Fast Food)",62.4000
+"Grand Cafe (French)",62.4286
+"Grand House (Andhra)",62.5714
+"Grand Eatery (Italian)",62.6667
+"Grand Kitchen (BBQ)",62.7500
+"Grand House (Mediterranean)",62.8750
+"Flavors of Bistro (Chinese)",63.0000
+"Spicy Diner (Continental)",63.0667
+"Grand Bistro (BBQ)",63.2105
+"Authentic Corner (Desserts)",63.3000
+"Flavors of Grill (Korean)",63.5000
+"Madras Point (Mediterranean)",63.5714
+"Savor House (Thai)",63.6000
+"Royal Diner (Continental)",64.1429
+"Delicious Diner (BBQ)",64.6250
+"Classic Grill (Mexican)",64.6250
+"Flavors of House (Kerala)",64.6667
+"Spicy Bistro (South Indian)",64.7143
+"Delicious House (Juice Bar)",64.8571
+"Savor Kitchen (Japanese)",65.0000
+"Flavors of Bistro (Mediterranean)",65.3000
+"Spicy Bistro (Mediterranean)",65.3125
+"Spicy Corner (Desserts)",65.3333
+"Savor Hut (Cafe)",65.3333
+"Authentic Corner (Italian)",65.3750
+"Chennai Hut (South Indian)",65.4286
+"Chennai Kitchen (Mexican)",65.5000
+"Royal Diner (Bakery)",65.8889
+"Savor Point (North Indian)",66.0000
+"Madras Cafe (Mexican)",66.5000
+"Royal Bistro (Korean)",66.6667
+"Madras Eatery (Kerala)",66.8333
+"Tandoori Cafe (North Indian)",67.0909
+"Spicy House (Cafe)",67.1667
+"Golden Lounge (Mexican)",67.2222
+"Golden Diner (South Indian)",67.2500
+"Chennai Corner (Bakery)",67.5000
+"Grand Eatery (Japanese)",67.5455
+"Madras Hut (South Indian)",67.5714
+"Chennai Grill (Juice Bar)",68.0000
+"Flavors of Grill (Continental)",68.0000
+"Classic Diner (Andhra)",68.1667
+"Authentic Spot (Chettinad)",68.2857
+"Authentic Hut (Chettinad)",68.3333
+"Madras Grill (Cafe)",68.4000
+"Chennai Corner (Mediterranean)",68.5000
+"Savor Spot (Seafood)",68.5000
+"Royal Diner (Thai)",68.6667
+"Grand Hut (Thai)",69.0000
+"Grand Point (Japanese)",69.1429
+"Madras House (Thai)",69.1429
+"Tandoori Diner (Japanese)",69.2000
+"Classic Bistro (Kerala)",69.3333
+"Royal Bistro (French)",69.3333
+"Royal Diner (North Indian)",70.0000
+"Golden Corner (Street Food)",70.1667
+"Tandoori Eatery (North Indian)",70.3333
+"Delicious Spot (Mexican)",70.4000
+"Savor Bistro (Italian)",70.5000
+"Golden Diner (Andhra)",71.0000
+"Royal Kitchen (Chinese)",71.0000
+"Classic Hut (French)",72.1250
+"Savor Spot (Andhra)",74.5000
+"Classic Cafe (Mexican)",75.8571
+"Royal Hut (Desserts)",76.2000
+"Royal Eatery (Cafe)",78.1667
